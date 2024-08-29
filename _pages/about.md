@@ -18,7 +18,7 @@ redirect_from:
 
 大家好！我是**李博文**，目前是本科三年级学生，就读于[华中科技大学网络空间安全学院](https://cse.hust.edu.cn/index.htm)信息安全专业。
 
-我对人工智能充满热情，自入学以来，积极参与各类科研项目和学术竞赛，曾获得**华中科技大学本科特优生**（1%）、2022-2023年度**国家奖学金**及多项校内表彰。在科研方面，我参与并主导了多个项目，包括但不限于**计算机视觉与其安全问题**、**大语言模型与其安全问题**等领域。
+我对人工智能充满热情，自入学以来，积极参与各类科研项目和学术竞赛，曾获得**华中科技大学本科特优生**（1%）、2021-2022年度**国家奖学金**及多项校内表彰。在科研方面，我参与并主导了多个项目，包括但不限于**计算机视觉与其安全问题**、**大语言模型与其安全问题**等领域。
 
 # 🎓 Education Background
 
@@ -28,7 +28,7 @@ redirect_from:
 - **核心课程：** 微积分上 (100)、微积分下 (100)、线性代数 (94)、概率论与数理统计 (93)、离散数学 (93, 97)、数据结构 (96, 98)、算法设计与分析 (98)、汇编语言程序设计 (94, 97)、编译原理 (95, 96)、计算机组成原理 (93, 99)、操作系统原理 (90, 95)、密码学 (94, 98)、软件安全 (94, 98)  
 - **编程能力：** 熟练掌握 C/C++ 和 Python，曾获多项编程类和算法类赛事的国家级奖项，代码能力强；熟练掌握 PyTorch，熟悉各类深度学习模型及其编程实现，曾获蓝桥杯AI实战赛国家级奖项；长期担任数模编程手，熟练使用 Python 和 MATLAB 进行建模编程，获多项数学建模奖项  
 - **开发工具：** VS Code, PyCharm, Jupyter Notebook, LaTeX (Overleaf), Git  
-- **在校荣誉：** 曾获华中科技大学本科特优生 (1%)、2022-2023年度国家奖学金
+- **在校荣誉：** 曾获华中科技大学本科特优生 (1%)、2021-2022年度国家奖学金
 
 # 🔥 News
 
@@ -69,7 +69,7 @@ redirect_from:
 
 ---
 
-## **💡 DtFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/DtFormer/README.html) | [[项目代码]](https://github.com/mumuyeye/DtFormer)</sub>
+## **💡 CumFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/DtFormer/README.html) | [[项目代码]](https://github.com/mumuyeye/DtFormer)</sub>
 
 - **时间：** 2024.2 - 2024.6  
 - **领域：** **计算机视觉、域适应**  
@@ -86,22 +86,21 @@ redirect_from:
 
 # 🧠 Research Experience-Large Language Models
 
-## **💡 RecCLIF - 基于CLIP的通用推荐框架**  
+## **💡 LLMPLA - 针对LLM应用程序的系统提示窃取攻击**  
 
 - **时间：** 2023.9 - 2024.7  
-- **领域：** **多模态大模型、推荐系统**  
-- **角色：** 第三作者  
+- **领域：** **大语言模型、人工智能安全、系统提示符窃取**  
+- **角色：** 第一作者(实验阶段)  
 - **研究背景：**  
-  1. 当前的推荐系统仍以ID-based为主流，这使得在不同域和平台之间进行知识迁移几乎不可能。
-  2. 随着推荐系统方法越来越多地采用自然语言处理中已经被证明成功的“预训练+微调”范式，设计独特的自监督学习任务变得更为重要，这也使流行的推荐系统数据集的不对齐和不统一问题更加明显。
-  3. 由于数据的不对齐和不统一，现有的推荐系统难以如LLM那样实现明确的scaling law。
+  1. 大语言模型(LLM)带动了LLM应用生态系统的逐步形成; 一般来说，LLM应用程序被托管在诸如OpenAI的GPT Store等平台上，用户可以使用它们来解决各种自然语言处理任务，其常见功能包含: 高质量翻译、高质量PPT制作、定制的Web搜索体验等。
+  2. 具体工作流程方面: LLM应用程序接收来自用户的查询，将其与自己的系统提示连接起来构造提示，并发送给后端现成的LLM，这之后，后端LLM的响应将被转发给用户以完成相应功能。
+  3. LLM应用程序的功能和性能高度依赖于它的系统提示符，LLM应用程序开发人员通常将其系统提示符视为知识产权。
+  4. 通过对LLM应用程序进行自然攻击(提示泄漏)以窃取其系统提示会严重危及开发人员的知识产权。
+  5. 因此，设计一种高效的系统提升窃取攻击来全面评估这方面的漏洞是一个亟待开展的工作。
 - **我们的方法：**  
-  1. 提出了一种基于图像的推荐关系通用数据表示方式，并逐步实现了模型的设计与优化。
-  2. 通过结合Next-item任务进行微调，引入GNN方法应对图像分辨率的挑战，最终采用LLM中的上下文学习能力构建224x224分辨率的热力图数据集以聚合推荐信息。
-  3. 集成CLIP多模态预训练模型，结合精心设计的描述文本实现对候选集的Rerank。
+  1. 设计了一个新颖的闭盒提示词泄漏攻击框架LLMPLA: 受现有越狱攻击的启发，LLMPLA将查询优化为对抗性查询，使得目标LLM应用程序在将该查询作为输入时更有可能显示其系统提示; 具体来说，我们将寻找这样一个对抗性查询作为一个优化问题，它涉及到一个影子系统提示和一个影子LLM的数据集，对于每个影子系统提示符，我们模拟一个使用影子系统提示符和影子LLM的影子LLM应用程序，这时我们的优化问题目标就是找到一个对抗性查询，以便影子LLM应用程序输出它们的影子系统提示作为对抗性查询的响应。
 - **项目成果：**  
-  * 我们的方法不仅在迁移性和zero-shot能力方面展现十足优势，也标志着推荐系统研究新方向的开拓。
-  * 相关论文已经基本完成，计划投稿至 **WWW 2025**（第三作者）。
+  * 目前正处于实验阶段，且实验效果较为良好。
 
 ---
 
@@ -168,16 +167,16 @@ redirect_from:
 # 🏆 Competition Awards
 
 - **Kaggle: Chatbot Arena Human Preference Predictions：银牌** *国家级* 2024 &nbsp;&nbsp;[[Leaderboard]](https://www.kaggle.com/competitions/lmsys-chatbot-arena/leaderboard)  
-- **蓝桥杯项目实战赛人工智能赛道(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDhulianwang+guo.pdf)  
-- **睿抗机器人开发者大赛编程技能赛(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_guo.pdf)  
-- **“华数杯”全国大学生数学建模竞赛(全国总决赛)：二等奖** *国家级* 2022 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDshumo.pdf)  
-- **美国大学生数学建模竞赛：H奖** *国际级* 2023 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDhulianwang+sheng.pdf)  
-- **全国大学生数学竞赛非数学类（湖北赛区）：一等奖** *省部级* 2022 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_sheng.pdf)  
-- **睿抗机器人开发者大赛编程技能赛(湖北赛区)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_guo.pdf)  
+- **蓝桥杯项目实战赛人工智能赛道(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDlanqiaobeiAIguo.pdf)  
+- **睿抗机器人开发者大赛编程技能赛(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDraicomguo.pdf)  
+- **“华数杯”全国大学生数学建模竞赛(全国总决赛)：二等奖** *国家级* 2022 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDhuashubei.pdf)  
+- **美国大学生数学建模竞赛：H奖** *国际级* 2023 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/meisaiH.pdf)  
+- **全国大学生数学竞赛非数学类（湖北赛区）：一等奖** *省部级* 2022 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDshuxuejingsaiguo.pdf)  
+- **睿抗机器人开发者大赛编程技能赛(湖北赛区)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDraicomsheng.pdf)  
 
 # 🥇 Scholarships and Honors
 
-- *2022-2023* **国家奖学金** (该年度年级成绩排名：3/98，前3.1%) *华中科技大学*  
+- *2021-2022* **国家奖学金** (该年度年级成绩排名：3/98，前3.1%) *华中科技大学*  
 - *2022-2023* **华中科技大学本科特优生** (全校前1%) *华中科技大学*  
 
 # 📖 Educations
