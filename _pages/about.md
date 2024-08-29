@@ -22,12 +22,12 @@ redirect_from:
 
 # 🎓 Education Background
 
-- **排名：** GPA 排名：**3/98 (3.1%)**、加权平均分排名：**3/98 (3.1%)** [排名证明](https://lbw15507.github.io/docs/paimingzhengming.pdf)  
+- **排名：** GPA 排名：**3/98 (3.1%)**、加权平均分排名：**3/98 (3.1%)** <span style="font-size: 14px;">[[排名证明]](https://lbw15507.github.io/docs/paimingzhengming.pdf)</span>  
 - **成绩均分：** GPA：4.65/5.0、加权平均分：92.48/100  
 - **语言能力：** 已通过 CET4 和 CET6，具有长期阅读英文文献的习惯，多次参与全英学术论文的撰写与投稿  
 - **核心课程：** 微积分上 (100)、微积分下 (100)、线性代数 (94)、概率论与数理统计 (93)、离散数学 (93, 97)、数据结构 (96, 98)、算法设计与分析 (98)、汇编语言程序设计 (94, 97)、编译原理 (95, 96)、计算机组成原理 (93, 99)、操作系统原理 (90, 95)、密码学 (94, 98)、软件安全 (94, 98)  
 - **编程能力：** 熟练掌握 C/C++ 和 Python，曾获多项编程类和算法类赛事的国家级奖项，代码能力强；熟练掌握 PyTorch，熟悉各类深度学习模型及其编程实现，曾获蓝桥杯 AI 编程赛国家级奖项；长期担任数学建模竞赛编程手，熟练使用 Python 和 MATLAB 进行建模编程，获多项数学建模奖项  
-- **在校荣誉：** 曾获 **华中科技大学本科特优生** (全校前1%) [证明](https://lbw15507.github.io/docs/HUSTteyousheng.pdf)，2021-2022年度 **国家奖学金** [证明](https://lbw15507.github.io/docs/guojiang.pdf)
+- **在校荣誉：** 曾获 **华中科技大学本科特优生** (全校前1%) <span style="font-size: 14px;">[[证明]](https://lbw15507.github.io/docs/HUSTteyousheng.pdf)</span>，2021-2022年度 **国家奖学金** <span style="font-size: 14px;">[[证明]](https://lbw15507.github.io/docs/guojiang.pdf)</span>
 
 # 🔥 News
 
