@@ -69,7 +69,7 @@ redirect_from:
 
 ---
 
-## **💡 DtFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/DtFormer/README.html) | [[项目代码]](https://github.com/mumuyeye/DtFormer)</sub>
+## **💡 CumFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/DtFormer/README.html) | [[项目代码]](https://github.com/mumuyeye/DtFormer)</sub>
 
 - **时间：** 2024.2 - 2024.6  
 - **领域：** **计算机视觉、域适应**  
