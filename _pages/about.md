@@ -170,7 +170,7 @@ redirect_from:
 - **蓝桥杯项目实战赛人工智能赛道(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDhulianwang+guo.pdf)  
 - **睿抗机器人开发者大赛编程技能赛(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_guo.pdf)  
 - **“华数杯”全国大学生数学建模竞赛(全国总决赛)：二等奖** *国家级* 2022 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDshumo.pdf)  
-- **美国大学生数学建模竞赛：H奖** *国际级* 2023 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/美赛H奖.pdf)  
+- **美国大学生数学建模竞赛：H奖** *国际级* 2023 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/meisaiH.pdf)  
 - **全国大学生数学竞赛非数学类（湖北赛区）：一等奖** *省部级* 2022 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_sheng.pdf)  
 - **睿抗机器人开发者大赛编程技能赛(湖北赛区)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_guo.pdf)  
 
