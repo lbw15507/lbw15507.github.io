@@ -167,12 +167,12 @@ redirect_from:
 # 🏆 Competition Awards
 
 - **Kaggle: Chatbot Arena Human Preference Predictions：银牌** *国家级* 2024 &nbsp;&nbsp;[[Leaderboard]](https://www.kaggle.com/competitions/lmsys-chatbot-arena/leaderboard)  
-- **蓝桥杯项目实战赛人工智能赛道(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDhulianwang+guo.pdf)  
-- **睿抗机器人开发者大赛编程技能赛(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_guo.pdf)  
-- **“华数杯”全国大学生数学建模竞赛(全国总决赛)：二等奖** *国家级* 2022 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDshumo.pdf)  
+- **蓝桥杯项目实战赛人工智能赛道(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDlanqiaobeiAIguo.pdf)  
+- **睿抗机器人开发者大赛编程技能赛(全国总决赛)：三等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDraicomguo.pdf)  
+- **“华数杯”全国大学生数学建模竞赛(全国总决赛)：二等奖** *国家级* 2022 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDhuashubei.pdf)  
 - **美国大学生数学建模竞赛：H奖** *国际级* 2023 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/meisaiH.pdf)  
-- **全国大学生数学竞赛非数学类（湖北赛区）：一等奖** *省部级* 2022 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_sheng.pdf)  
-- **睿抗机器人开发者大赛编程技能赛(湖北赛区)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/AWARDruanchuang_guo.pdf)  
+- **全国大学生数学竞赛非数学类（湖北赛区）：一等奖** *省部级* 2022 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDshuxuejingsaiguo.pdf)  
+- **睿抗机器人开发者大赛编程技能赛(湖北赛区)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](https://lbw15507.github.io/docs/AWARDraicomsheng.pdf)  
 
 # 🥇 Scholarships and Honors
 
